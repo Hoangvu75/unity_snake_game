@@ -5,4 +5,4 @@ Snake game 3D
 * C#
 * Unity
 ## Demo
-https://drive.google.com/file/d/10tQRrJTkgERaopW8Bq87sfCGMvQDY1sk/view?usp=sharing
+https://drive.google.com/file/d/1zy63-WacbzIztPMBlozU9WvpDfSOwTXC/view?usp=sharing
